@@ -10,7 +10,7 @@
 - 💫 &nbsp; I like to create unique integrated project to improve my technical grasp.
 - 🎓 &nbsp; Studying Computer Science and Engineering at D.N. Patel College Of Engineering, Shahada.
 - 🌱 &nbsp; Learning more about DSA and Web Development.
-<!-- - 💼 &nbsp; Upcoming MITACS Globalink Research Internship scholar at the University of Guelph in Summer of 2022. -->
+<!-- - 💼 &nbsp;  -->
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
