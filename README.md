@@ -57,7 +57,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://bhagyashri2703.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://bhagyashri2703.github.io/-blue?style=flat-square&logo=google-chrome"></a>
+<!--  for portfolio  -->
+<!-- <a href="https://bhagyashri2703.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://bhagyashri2703.github.io/-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/bagul-bhagyashri-kishor-14917b203/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bhagyashri%20Bagul-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:bhagyashribagul223@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bhagyashribagul223@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://leetcode.com/Bhagyashribagul223/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-Bhagyashribagul223/-blue?style=flat-square&logo=leetcode"></a>
