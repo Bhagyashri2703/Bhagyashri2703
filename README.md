@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-
-    <!-- ### Hi there 👋 -->
+<!-- ### Hi there 👋 -->
 
 <!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
 
@@ -19,9 +8,9 @@
 
 - 🤔 &nbsp; I'm an overall self-taught developer and love learning and experimenting with new technologies as much as possible.
 - 💫 &nbsp; I like to create unique integrated project to improve my technical grasp.
-- 🎓 &nbsp; Studying Computer Science and Engineering at D.N. Patel College Of Engineering, Shahada.
+- 👯 &nbsp; I’m looking to collaborate on open source project
 - 🌱 &nbsp; Learning more about DSA and Web Development.
-<!-- - 💼 &nbsp;  -->
+- 💬 &nbsp; Ask me about web dev stuffs
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -96,6 +85,3 @@ Here are some ideas to get you started:
 
 
 
-
-</body>
-</html>
