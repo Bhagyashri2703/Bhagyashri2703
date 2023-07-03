@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; I'm an overall self-taught developer and love learning and experimenting with new technologies as much as possible.
 - 💫 &nbsp; I like to create unique integrated project to improve my technical grasp.
-- 👯 &nbsp; I’m looking to collaborate on open source project
+- 👯 &nbsp; I’m looking to collaborate on open source contribution.
 - 🌱 &nbsp; Learning more about DSA and Web Development.
 - 💬 &nbsp; Ask me about web dev stuffs
 
